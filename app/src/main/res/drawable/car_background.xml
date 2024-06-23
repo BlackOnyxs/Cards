@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#3B3B98"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#4A4AEB"
+                android:endColor="#2A2A72"
+                android:angle="45"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <item android:top="16dp" android:right="16dp">
+        <bitmap
+            android:gravity="bottom|end"
+            android:src="@drawable/visa_logo"
+            android:width="40dp"
+            android:height="20dp"
+            />
+    </item>
+</layer-list>
