@@ -8,4 +8,17 @@
     <string name="menu.cards">Cards</string>
     <string name="menu.transactions">Transactions</string>
     <string name="menu.account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_email">Email</string>
+    <string name="et_email_hint">type your email…</string>
+    <string name="tv_password">Password</string>
+    <string name="tv_forgot_your_password">Forgot your password?</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_register">Don’t have an account? Signup</string>
+    <string name="et_password_hint">type your password…</string>
+    <string name="tv_fullName">Nombre Completo</string>
+    <string name="tv_login">Already have an account? Login</string>
+    <string name="et_full_name_hint">type your full name</string>
+    <string name="tv_transactions">Transaction List</string>
 </resources>
